@@ -57,7 +57,9 @@ AutoSauceFramework
 
 
 CI/CD Pipeline
+
 •	Jenkins triggers tests on Git push.
+
 •	Dockerized execution for consistency.
 
 
