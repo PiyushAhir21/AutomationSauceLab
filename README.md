@@ -32,9 +32,13 @@ Installation
     target/extent-report.html
 
 📋 Test Scenarios
+
 •	Login with valid/invalid users.
+
 •	Product sorting (Price, Name).
+
 •	Add/Remove items from cart.
+
 •	Checkout flow validation.
 
 
