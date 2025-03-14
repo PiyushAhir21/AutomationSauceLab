@@ -25,8 +25,11 @@ Installation
 
     cd AutomationSauceLab  
 3.	Run tests:
+
     mvn clean test -Dbrowser=chrome  
-4.	View reports: target/extent-report.html
+4.	View reports:
+
+    target/extent-report.html
 
 📋 Test Scenarios
 •	Login with valid/invalid users.
