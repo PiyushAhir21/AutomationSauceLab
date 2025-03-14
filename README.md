@@ -23,9 +23,9 @@ Installation
 1. Clone the repo:  
     git clone [https://github.com/PiyushAhir21/AutomationSauceLab.git](https://github.com/PiyushAhir21/AutomationSauceLab.git)
     cd AutomationSauceLab  
-3.	Run tests:
+2.	Run tests:
     mvn clean test -Dbrowser=chrome  
-4.	View reports: target/extent-report.html
+3.	View reports: target/extent-report.html
 
 📋 Test Scenarios
 •	Login with valid/invalid users.
