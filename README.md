@@ -72,4 +72,4 @@ CI/CD Pipeline
 
    
 📜 License
-MIT License. See [LICENSE](https://github.com/PiyushAhir21/AutomationSauceLab/blob/main/LICENSE) for details.
+MIT License. See [LICENSE](https://github.com/PiyushAhir21/SauceLabAutomation/blob/main/LICENSE) for details.
