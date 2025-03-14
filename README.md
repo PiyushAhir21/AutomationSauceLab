@@ -20,11 +20,12 @@ Prerequisites
 - Maven 3.8.6+  
 Installation  
 1. Clone the repo:  
-    git clone https://github.com/PiyushAhir21/AutoSauceFramework.git  
+    git clone [https://github.com/PiyushAhir21/AutoSauceFramework.git](https://github.com/PiyushAhir21/AutomationSauceLab.git)
+   
     cd AutoSauceFramework  
-2.	Run tests:
+3.	Run tests:
     mvn clean test -Dbrowser=chrome  
-3.	View reports: target/extent-report.html
+4.	View reports: target/extent-report.html
 
 📋 Test Scenarios
 •	Login with valid/invalid users.
