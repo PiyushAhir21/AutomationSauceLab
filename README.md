@@ -20,7 +20,7 @@ Prerequisites
 - Maven 3.8.6+  
 Installation  
 1. Clone the repo:  
-    git clone https://github.com/yourusername/AutoSauceFramework.git  
+    git clone https://github.com/PiyushAhir21/AutoSauceFramework.git  
     cd AutoSauceFramework  
 2.	Run tests:
     mvn clean test -Dbrowser=chrome  
