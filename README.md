@@ -15,14 +15,14 @@ AutoSauceFramework 🚀
 - Parallel Test Execution  
 
 🚀 Getting Started  
-Prerequisites  
+Prerequisites
 - Java 17+  
-- Maven 3.8.6+  
+- Maven 3.8.6+
+
 Installation  
 1. Clone the repo:  
-    git clone [https://github.com/PiyushAhir21/AutoSauceFramework.git](https://github.com/PiyushAhir21/AutomationSauceLab.git)
-   
-    cd AutoSauceFramework  
+    git clone [https://github.com/PiyushAhir21/AutomationSauceLab.git](https://github.com/PiyushAhir21/AutomationSauceLab.git)
+    cd AutomationSauceLab  
 3.	Run tests:
     mvn clean test -Dbrowser=chrome  
 4.	View reports: target/extent-report.html
